@@ -1,0 +1,3 @@
+- Hi Im Asim !
+- Beginner In Programing 🌚
+- interested in databases and started learning them !☘
