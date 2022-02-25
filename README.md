@@ -1,3 +1,3 @@
 - Hi Im Asim !😁
-- Beginner In Programing 🌚
-- Just That .
+- Im A Minecraft Plugins Dev
+- And Discord Bots Dev With Discord.js And JDA (Java Discord Api)
