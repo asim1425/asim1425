@@ -1,3 +1,5 @@
 - Hi Im Asim !😁
 - Im A Minecraft Plugins Dev
 - And Discord Bots Dev With Discord.js And JDA (Java Discord Api)
+- And Bash/Shell Scrips Dev.
+- Ty For Reading <3
